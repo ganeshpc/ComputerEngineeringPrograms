@@ -22,7 +22,6 @@ int main() {
     }
 }
 
-
 int binarySearch(int* arr, int size, int element) {
     
     int firstIndex = 0;
